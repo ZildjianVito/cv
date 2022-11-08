@@ -425,11 +425,11 @@ section .divSection {
 }
 
 /* CONTACT */
-#contact {
+#titleContact {
     height: 80vh;
 }
 
-#contact .divSection {
+#titleContact .divSection {
     gap: 40px;
 }
 
